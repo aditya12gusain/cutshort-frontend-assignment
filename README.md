@@ -4,7 +4,7 @@ Created step form with React, Context API, Chakra UI, React Icons.
 
 ## Demo
 
-- [Elden Workspace Onboarding](https://www.eldenworkspace.netlify.com)
+- [Elden Workspace Onboarding](https://edenworkspaces.netlify.app/)
 
 ## Features
 
