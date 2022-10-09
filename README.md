@@ -22,6 +22,12 @@ Clone Project
   git clone __repo_link_
 ```
 
+Navigate to Project
+
+```bash
+  cd _project_directory_
+```
+
 Install Dependencies
 
 ```bash
